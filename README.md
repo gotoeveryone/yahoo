@@ -10,7 +10,7 @@
 ## Run
 
 ```console
-$ go run cmd/yahoo/main.go
+$ go run cmd/yahoo/main.go -l {output_length}
 ```
 
 ## Format check
